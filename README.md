@@ -1,2 +1,0 @@
-# nailstudio
-Nail Studio
